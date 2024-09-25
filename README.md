@@ -33,4 +33,10 @@ https://web.facebook.com/Ephraim5407
 follow my page also
 https://web.facebook.com/profile.php?id=100091570334677
 
+my portfolio
+https://ephraim5.github.io/portfolio
+![android-chrome-512x512](https://github.com/user-attachments/assets/44c0069e-169d-410d-9060-71cbdf63bf48)
+
+
+
 thank you!!!!
