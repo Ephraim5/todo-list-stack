@@ -7,10 +7,11 @@
 font-family: 'Black Ops One', cursive;
 font-family: 'Fira Sans', sans-serif; */
 body {
-  background-image: url('../src/bg1.gif');
+  /*background-image: url('../src/bg1.gif');
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;*/
+  background:black;
   height:100vh;
 }
 
